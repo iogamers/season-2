@@ -1,2 +1,1 @@
-# season-2
-season 2 modpack
+## .iogamer season 2<br><sup>(…)</sup>
