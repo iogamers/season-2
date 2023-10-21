@@ -1,4 +1,4 @@
-<h1 align="center">.iogamer season 2<br><sup>(May 27, 2023 - June 30)</sup></h1>
+<h1 align="center">.iogamer season 2<br><sup>(July 16, 2023 - August 16)</sup></h1>
 
 <p align="center">archive of .iogamer's season 2 modpack and server</p>
 
@@ -13,7 +13,7 @@
 		<td>
 			<a href="https://github.com/iogamers/season-2/raw/main/client.zip">client.zip</a> (mods)<br>
 			<details>
-				<summary>modslist</summary>
+				<summary>modlist</summary>
 				- appleskin-fabric-mc1.19-2.4.1<br>
 				- architectury-6.5.85-fabric<br>
 				- artifacts-7.1.1+fabric<br>
@@ -69,7 +69,7 @@
 			<a href="https://github.com/iogamers/season-2/raw/main/server.zip">server.zip</a> (mods, configs)<br>
 			<a href="https://drive.google.com/file/d/1z--F-zf_YjP9tDDIdKPpMPN1UC37RKAy/view?usp=sharing">ss2world.zip</a> (world) (Google Drive)
 			<details>
-				<summary>modslist</summary>
+				<summary>modlist</summary>
 				- appleskin-fabric-mc1.19-2.4.1<br>
 				- architectury-6.5.85-fabric<br>
 				- artifacts-7.1.1+fabric<br>
@@ -138,3 +138,12 @@
 		</td>
 	</tr>
 </table>
+
+<!--<h2 align="center">playerlist</h2>
+
+- macimas
+- BaconDoesntRust
+- natasqutre
+- iogame
+
+-->
