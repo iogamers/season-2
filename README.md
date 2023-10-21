@@ -135,6 +135,24 @@
 				- YungsBetterOceanMonuments-1.19.2-Fabric-2.1.0<br>
 				- YungsBetterStrongholds-1.19.2-Fabric-3.2.0
 			</details>
+			<details>
+				<summary>fabrication config</summary>
+				Minor Mechanics<br>
+				- Feather Falling V<br>
+				- Feather Falling V Damages Boots<br>
+				<br>
+				Balance<br>
+				- Anvils Take Damage Only When Falling<br>
+				- Environmentally Friendly Creepers<br>
+				<br>
+				Weird Tweaks<br>
+				- Endermen Don't Grief<br>
+				- Creepers Explode When On Fire<br>
+				- Curable Piglins<br>
+				- Photoallergic Creepers<br>
+				- Instant Pickup<br>
+				- Déjà Void
+			</details>
 		</td>
 	</tr>
 </table>
