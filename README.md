@@ -157,7 +157,7 @@
 	</tr>
 </table>
 
-<h2 align="center">scriptor incomplete cheatsheet<br><sub>(from natalie)</sub></h2>
+<h2 align="center">scriptor incomplete cheatsheet<br><sup>(from natalie)</sup></h2>
 
 #### modifiers
 - uaonu iv - blue
