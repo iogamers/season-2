@@ -157,6 +157,53 @@
 	</tr>
 </table>
 
+<h2 align="center">scriptor incomplete cheatsheet<br><sub>(from natalie)</sub></h2>
+
+#### modifiers
+- uaonu iv - blue
+- xoo iv - red
+- eaiddaz iv - green
+- baug iv - orange
+- ajuox iv - brown
+- eeiz iv - grey
+- oequui iv - pink
+- orfaot usi - purple
+- rco iv - rainbow
+- idde usi - faster projectile
+- ucuu usi - slower projectile
+- enloz iv - strengthen
+- oaorm usi - strengthen++
+- jjeemd usi - strength+++++ but hurts when use
+- aubpa usi - increase lifetime
+- oauha iv - targets item
+- neetzap usi - targets inventory
+- zruouc usi - targets first filled slot (?)
+- tiiakmo iv - halves cooldown
+
+
+#### action
+- vgio ac - tp
+- aua aca - swap
+- eude usi - pull
+- edur ac - summon thunder
+- suaedip aca - explod
+- ejieet aca - break
+- minelue aca - poison II
+- asolg aca - slow II
+- xukaupo ac - fire
+- aev ac - instant damage
+- obsi aca - heal
+
+#### type
+- qokdi - rune
+- buizga - projectile
+- xoo - touch (broken)
+- fxoa - self
+- quvo - cast around you
+
+#### how cast spell
+\<action\> + \<type\> + \[modifiers\]
+
 <!--<h2 align="center">playerlist</h2>
 
 - macimas
