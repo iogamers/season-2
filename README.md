@@ -67,7 +67,7 @@
 		</td>
 		<td>
 			<a href="https://github.com/iogamers/season-2/raw/main/server.zip">server.zip</a> (mods, configs)<br>
-			<a href="https://drive.google.com/file/d/1z--F-zf_YjP9tDDIdKPpMPN1UC37RKAy/view?usp=sharing">ss2world.zip</a> (world) (Google Drive)
+			<a href="https://drive.google.com/u/0/uc?id=1z--F-zf_YjP9tDDIdKPpMPN1UC37RKAy&export=download">ss2world.zip</a> (world) (Google Drive)
 			<details>
 				<summary>modlist</summary>
 				- appleskin-fabric-mc1.19-2.4.1<br>
